@@ -1,0 +1,42 @@
+// Colors
+
+$white: #fff;
+$primary-color: #58e1c1;
+$root-color: blue;
+$link-color: #51ddfc;
+$uni-color: #777;
+
+// Button Colors
+$btn-default: #51ddfc;
+$btn-error: #e4757a;
+$btn-info: #927bc1;
+$btn-success: #63cc82;
+$btn-warning: #fd7856;
+
+// Theme Color Variables
+$themes: (
+    col-1: #927bc1,
+    col-2: #fd7856,
+    col-3: #deb2ee,
+    col-4: #7ee6fd,
+    col-5: #88d9a0,
+    col-6: #4da2bb,
+    col-7: #ec9fa3,
+    col-8: #fd9f85,
+    col-9: #e4757a,
+    col-10: #63cc82,
+    col-11: #51ddfc,
+    col-12: #80e8d1
+);
+
+// Typography Variables
+$uni-font: 'Lato', sans-serif;
+
+$head-weight: 300;
+$link-weight: 700;
+$blockquote-size: 1.5em;
+$blockquote-weight: 300;
+
+
+// Media Quries
+$med: 768px;
